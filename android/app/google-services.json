@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "917800866435",
+    "project_id": "mobailyapp",
+    "storage_bucket": "mobailyapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917800866435:android:4dbb6bf13bad662c4c01b6",
+        "android_client_info": {
+          "package_name": "com.fasila.mobaily"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917800866435-e5r5v311sat0gs81bi796nkr0j08514f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fasila.mobaily",
+            "certificate_hash": "362760505f8576cf57a459286a459a2905a65796"
+          }
+        },
+        {
+          "client_id": "917800866435-i1el1mvt0f8iqmrg5f87ligsp9djlrjf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwaj6xSEqhW63Ih22ZTLxuflqUHYgzoGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917800866435-i1el1mvt0f8iqmrg5f87ligsp9djlrjf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
